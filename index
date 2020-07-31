@@ -1,0 +1,531 @@
+
+<!DOCTYPE html>
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta content="IE=7.0000" http-equiv="X-UA-Compatible">
+<title>Fuli Feng's Homepage</title>
+<meta name="description" content="Fuli Feng, Research Fellow in National University of Singapore. Graph-based Learning, FinTech, applied machine learning (recommendation system, text mining, Web data mining, multi-media).">
+<meta name="keywords" content="Fuli Feng, nus, National University of Singapore, graph, fintech, finance, text mining, web data mining, multi-media, recommendation, information retrieval, deep learning, machine learning">
+
+<link rel="stylesheet" type="text/css" href="./files/ffl.css">
+<!-- <script type="text/javascript" async="" src="./files/ga.js"></script><script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-39532305-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> -->
+
+<style>@-moz-keyframes nodeInserted{from{opacity:0.99;}to{opacity:1;}}@-webkit-keyframes nodeInserted{from{opacity:0.99;}to{opacity:1;}}@-o-keyframes nodeInserted{from{opacity:0.99;}to{opacity:1;}}@keyframes nodeInserted{from{opacity:0.99;}to{opacity:1;}}embed,object{animation-duration:.001s;-ms-animation-duration:.001s;-moz-animation-duration:.001s;-webkit-animation-duration:.001s;-o-animation-duration:.001s;animation-name:nodeInserted;-ms-animation-name:nodeInserted;-moz-animation-name:nodeInserted;-webkit-animation-name:nodeInserted;-o-animation-name:nodeInserted;}</style></head>
+
+
+<body>
+
+<div id="content">
+
+<div id="news">
+    <h2>News</h2><br>
+    <font size="3px">
+
+    <b>6 June 2020</b><br>
+    <span class="easylink">
+    I am invited to be a program committee member in <a href="https://nips.cc/Conferences/2020" target="_blank">The Conference on Neural Information Processing Systems (NeurIPS) 2020</a>, <a href="http://www.wsdm-conference.org/2021/" target="_blank">The 14th ACM
+International Web Search and Data Mining Conference (WSDM) 2021 </a>, <a href="https://2020.emnlp.org/" target="_blank">The Conference on Empirical Methods in Natural Language Processing (EMNLP) 2020</a>.
+    </span><br><br>
+	
+    <b>23 April 2019</b><br>
+    <span class="easylink">
+    Two full papers are accepted by <a href="https://sigir.org/sigir2020/" target="_blank"><b>SIGIR 2020</b></a>, about <b>progressive recommender training</b> and <b>low-resource text classification</b>. One full papre is accepted by <a href="https://www.ijcai20.org/" target="_blank"><b>IJCAI 2020</b></a>, about <b> graph neural network</b>.
+    </span><br><br>
+
+    <b>24 December 2019</b><br>
+    <span class="easylink">
+    I am invited to be a program committee member in <a href="https://acl2020.org/" target="_blank">Annual Conference of the Association for Computational Linguistics (ACL) 2020</a> and <a href="https://sigir.org/sigir2020/" target="_blank">International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) 2020</a>.
+    </span><br><br>
+    
+    <b>25 November 2019</b><br>
+    <span class="easylink">
+    One full paper is accepted by IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>), about <b>adversarial training of graph neural networks</b>.
+    </span><br><br>
+    
+    <b>13 November 2019</b><br>
+    <span class="easylink">
+    One full paper is accepted by IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>), about <b>multi-behaviour recommendation</b>.
+    </span><br><br>
+
+    <b>11 November 2019</b><br>
+    <span class="easylink">
+    One full paper is accepted by <a href="https://aaai.org/Conferences/AAAI-20/" target="_blank">AAAI 2020 (oral)</a>, about <b>sequential text classification</b>.
+    </span><br><br>
+
+    <b>8 October 2019</b><br>
+    <span class="easylink">I am invited to be a program committee member in <a href="https://www2020.thewebconf.org/web-mining" target="_blank">The Web Conference (WWW) 2020</a>.
+    </span><br><br>
+
+    <b>20 September 2019</b><br>
+    <span class="easylink">One full paper is accepted by IEEE Transactions on Multimedia (<b>TMM</b>), about <b>food recommendation</b>.
+    </span><br><br>
+
+    <b>21 August 2019</b><br>
+    <span class="easylink">I am invited to be a program committee member in <a href="https://aaai.org/Conferences/AAAI-20/" target="_blank">AAAI 2020</a>.
+    </span><br><br>
+
+    <b>6 August 2019</b><br>
+    <span class="easylink">
+    I have successfully defended my thesis and got the PhD degree! My thesis title is "<a href="./papers/FengFL.pdf" target="_blank">Learning on Graphs</a>".
+    </span><br><br>
+
+    <b>16 July 2019</b><br>
+    <span class="easylink">
+    One full paper is accepted by IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>), about <b>negative sampling for recommendation</b>.
+    </span><br><br>
+
+    <b>18 May 2019</b><br>
+    <span class="easylink">I am invited to be a program committee member in <a href="http://www.cikm2019.net/" target="_blank">CIKM 2019</a>.
+    </span><br><br>
+
+    <b>17 April 2019</b><br>
+    <span class="easylink">
+    One full paper is accepted by <a href="https://ijcai19.org/" target="_blank">IJCAI 2019</a>, about <b>adversarial training for stock prediction</b>.
+    </span><br><br>
+
+    <b>14 April 2019</b><br>
+    <span class="easylink">
+    Three full papers are accepted by <a href="https://sigir.org/sigir2019/" target="_blank">SIGIR 2019</a>, about <b>graph neural network for recommendation, interpretable fashion matching</b>, and <b>hierarchical hashing</b>.
+    </span><br><br>
+
+    <b>17 January 2019</b><br>
+    <span class="easylink">
+        One full paper is accepted by ACM Transactions on Information Systems (<b>TOIS</b>), about <b>graph neural network for stock prediction</b>.
+    </span><br><br>
+
+    </font>
+
+</div>
+
+<div id="left">
+<table style="background-color:white;">
+<tbody><tr nosave="">
+<td valign="CENTER">
+<img src="./images/ffl.JPG" height="250" align="left">
+</td>
+
+<td valign="CENTER" width="2%">
+</td>
+
+<td valign="CENTER" halign="LEFT">
+<font size="+0">
+<b><font size="+2">Fuli Feng&nbsp;</font></b>
+<!--<p style="margin-left:0px;">
+<img src="./images/name.png", height="60">
+</p>-->
+<p style="margin-left:0px;">
+<b>Research Fellow</b>
+</p><p style="margin-left:0px;">
+<a href="http://www.nextcenter.org/", target="_blank">NExT++</a><br/>
+<a href="https://www.comp.nus.edu.sg/", target="_blank">School of Computing</a><br/>
+<a href="http://www.nus.edu.sg", target="_blank">National University of Singapore</a><br/>
+</p><p style="margin-left:0px;">
+Computing 1, Computing Drive, Singapore 117417<br>
+</p><p style="margin-left:0px;">
+Email: fulifeng93 AT gmail.com</a><br>
+&bull; <!--<a href="files/xiangwang_cv.pdf">CV</a> &bull;--> <a href="https://scholar.google.com.sg/citations?user=QePM4u8AAAAJ&hl=en">Google Scholar</a> &bull; <a href="https://github.com/fulifeng">GitHub</a> <br>
+</p></font><p><font size="+0">
+</font>
+</p></td>
+</tr>
+</tbody></table>
+
+<div style="margin-top:20px;">
+    I am a research fellow in <a href="http://www.nextcenter.org/">NExT++</a>, School of Computing, National University of Singapore. I have over 20
+    publications appeared in several top conferences such as SIGIR, WWW, and ACMMM, and journals including TKDE and TOIS. My work on recommender system has
+    received the Best Poster Award in WWW 2018. My research interests include information retrieval, data mining, and multi-media analytics, particularly in machine learning
+    techniques and applications such as graph neural networks, adversarial learning, multi-source learning, recommender systems, FinTech, and text mining.
+    Moreover, I have served as the PC member for top-tier conferences including SIGIR, WWW, WSDM, NeurIPS, AAAI, ACL, EMNLP, and ACMMM, and the invited reviewer for prestigious journals such as TNNLS, TKDE, TMM.
+    
+</div>
+
+<!--
+<h2 style="CLEAR: both;">Call For Papers (now)</h2> </br>
+<font color="red">
+Multimedia Systems, Special Issue on "Multimedia Recommendation and
+Multi-modal Data Analysis" </font> </br>
+<a href="http://static.springer.com/sgw/documents/1633917/application/pdf/CfP_MM+Recommendation+and+Multi-modal+Data+Analysis.pdf">Link</a>, Submission Deadline: July 1st, 2018 </br> !-->
+
+<!-- =======================================================================!-->
+
+
+<h2 style="CLEAR: both;">Education</h2>
+<table>
+  <tbody>
+  <tr>
+    <td><span class="title">National University of Singapore (NUS)</span> <br>
+	Ph.D. in Computer Science &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  August 2015 - August 2019, Singapore <br>
+	Advisor: <a href="https://www.chuatatseng.com/" target="_blank">Prof. Tat-Seng Chua</a><br>
+	Mentors: <a href="http://staff.ustc.edu.cn/~hexn/" target="_blank">Prof. Xiangnan He</a> and <a href="http://ir.sdu.edu.cn/~liqiangnie/index.html" target="_blank">Prof. Liqiang Nie</a>
+     </td></tr></tbody></table>
+<table>
+  <tbody>
+  <tr>
+    <td><span class="title">Beihang University (BUAA)</span> <br>
+	Bachelor in Computer Science and Engineering &nbsp;&nbsp;&nbsp;&nbsp;  September 2011 - June 2015, Beijing <br>
+	Advisor: <a href="https://dblp.org/pers/hd/l/Li:Zhoujun" target="_blank">Prof. Zhoujun Li</a>
+    </td></tr></tbody></table>
+
+<h2 style="CLEAR: both">Experiences</h2>
+<table>
+  <tbody><tr>
+    <td> <span class="title">Postdoc Research Fellow</span>, National University of Singapore, June 2019 - Present   <br>
+			Advisior: <a href="https://www.chuatatseng.com/" target="_blank">Prof. Tat-Seng Chua</a> (<a href="http://www.nextcenter.org/">NExT++: NUS-Tsinghua-Southampton Extreme Search Center</a>)
+		</td></tr></tbody>
+</table>
+
+<!-- =======================================================================!-->
+
+<div id="papers">
+<h2 style="CLEAR: both">Publications <a href="https://scholar.google.com.sg/citations?user=QePM4u8AAAAJ&hl=en" target="_blank">Google Scholar</a></h2>
+</br>
+
+<b> In the Year of 2020: </b> </br></br>
+
+<table>
+  <tbody>
+  <tr>
+    <td class="left"><a href="https://arxiv.org/abs/2005.13258" target="_blank"><img src="./images/pdf.png" width="25" height="25"><br>pdf</a></td>
+    <td><span class="title">How to Retrain Recommender System? A Sequential Meta-Learning Approach</span>
+        <br>Yang Zhang, <b>Fuli Feng</b>, Chenxu Wang, Xiangnan He, Meng Wang, Yan Li and Yongdong Zhang
+    <br>SIGIR 2020 (Full) &nbsp;&nbsp; <a href="https://github.com/zyang1580/SML" target="_blank">Codes</a> &nbsp;&nbsp;
+  </td>
+  </tr>
+ </tbody>
+</table>
+
+<table>
+  <tbody>
+  <tr>
+    <td class="left"><a href="./papers/2020sigir_qianchen.pdf" target="_blank"><img src="./images/pdf.png" width="25" height="25"><br>pdf</a></td>
+    <td><span class="title">Enhancing Text Classification via Discovering Additional Semantic Clues from Logograms</span>
+        <br>Chen Qian, <b>Fuli Feng</b>, Lijie Wen, Li Lin, & Tat-Seng Chua
+    <br>SIGIR 2020 (Full, Oral) &nbsp;&nbsp; <a href="https://github.com/qianc62/Leco" target="_blank">Codes</a> &nbsp;&nbsp;
+  </td>
+  </tr>
+ </tbody>
+</table>
+
+<table>
+  <tbody>
+  <tr>
+    <td class="left"><a href="https://arxiv.org/abs/2002.03575" target="_blank"><img src="./images/pdf.png" width="25" height="25"><br>pdf</a></td>
+    <td><span class="title">Bilinear Graph Neural Network with Neighbor Interactions</span>
+		<br>Hongmin Zhu, <b>Fuli Feng</b>, Xiangnan He, Xiang Wang, Yan Li, Kai Zheng & Yongdong Zhang
+    <br>IJCAI 2020 (Full) &nbsp;&nbsp; <a href="https://github.com/zhuhm1996/bgnn" target="_blank">Codes</a> &nbsp;&nbsp;
+  </td>
+  </tr>
+ </tbody>
+</table>
+
+<table>
+  <tbody>
+  <tr>
+    <td class="left"><a href="https://www.aaai.org/Papers/AAAI/2020GB/AAAI-QianC.2311.pdf" target="_blank"><img src="./images/pdf.png" width="25" height="25"><br>pdf</a></td>
+    <td><span class="title">Solving Sequential Text Classification as Board-Game Playing</span>
+        <br>Chen Qian, <b>Fuli Feng</b>, Lijie Wen, Zhenpeng Chen, Li Lin, Yanan Zheng & Tat-Seng Chua
+    <br>AAAI 2020 (Full, Oral) &nbsp;&nbsp; <a href="https://github.com/qianc62/GuGo" target="_blank">Codes</a> &nbsp;&nbsp;
+  </td>
+  </tr>
+ </tbody>
+</table>
+
+<table>
+  <tbody>
+  <tr>
+    <td class="left"><a href="./papers/2020tois_yongqi.pdf" target="_blank"><img src="./images/pdf.png" width="25" height="25"><br>pdf</a></td>
+    <td><span class="title">Large-Scale Question Tagging via Joint Question-Topic Embedding Learning</span>
+        <br>Liqiang Nie, Yongqi Li, <b>Fuli Feng</b>, Xuemeng Song, Meng Wang & Tat-Seng Chua
+    <br>ACM Transactions on Information Systems (TOIS, 2020) &nbsp;&nbsp; <a href="https://github.com/liyongqi67/PROFIT" target="_blank">Codes</a> &nbsp;&nbsp;
+  </td>
+  </tr>
+ </tbody>
+</table>
+
+
+<b> In the Year of 2019: </b> </br></br>
+
+<table>
+  <tbody>
+  <tr>
+    <td class="left"><a href="to_be_updated" target="_blank"><img src="./images/pdf.png" width="25" height="25"><br>pdf</a></td>
+    <td><span class="title">Learning to Recommend with Multiple Cascading Behaviors</span>
+        <br>Chen Gao, Xiangnan He, Dahua Gan, Xiangning Chen, <b>Fuli Feng</b>, Yong Li, Tat-Seng Chua & Depeng Jin
+    <br>IEEE Transactions on Knowledge and Data Engineering (TKDE 2019) &nbsp;
+  </td>
+  </tr>
+ </tbody>
+</table>
+
+
+<table>
+  <tbody>
+  <tr>
+    <td class="left"><a href="https://arxiv.org/abs/1810.05032" target="_blank"><img src="./images/pdf.png" width="25" height="25"><br>pdf</a></td>
+    <td><span class="title">Hierarchical Attention Network for Visually-aware Food Recommendation</span>
+        <br>Xiaoyan Gao, <b>Fuli Feng</b>, Xiangnan He, Heyan Huang, Xinyu Guan, Chong Feng Zhaoyan Ming & Tat-Seng Chua
+    <br>IEEE Transactions on Multimedia (TMM 2019) &nbsp;&nbsp; <a href="https://www.kaggle.com/elisaxxygao/foodrecsysv1" target="_blank">Data</a> &nbsp;&nbsp;
+  </td>
+  </tr>
+ </tbody>
+</table>
+
+<table>
+  <tbody>
+  <tr>
+    <td class="left"><a href="https://www.ijcai.org/proceedings/2019/0810.pdf" target="_blank"><img src="./images/pdf.png" width="25" height="25"><br>pdf</a></td>
+    <td><span class="title">Enhancing Stock Movement Prediction with Adversarial Training</span>
+        <br><b>Fuli Feng</b>, Huimin Chen, Xiangnan He, Ji Ding, Maosong Sun & Tat-Seng Chua
+    <br>IJCAI 2019 (Full, Accept rate: 17.9%) &nbsp;&nbsp; <a href="https://github.com/fulifeng/Adv-ALSTM" target="_blank">Codes</a> &nbsp;&nbsp;
+  </td>
+  </tr>
+ </tbody>
+</table>
+
+<table>
+  <tbody>
+  <tr>
+    <td class="left"><a href="./papers/sigir19-fashion.pdf" target="_blank"><img src="./images/pdf.png" width="25" height="25"><br>pdf</a></td>
+    <td><span class="title">Interpretable Fashion Matching with Rich Attributes</span>
+        <br>Xun Yang, Xiangnan He, Xiang Wang, Yunshan Ma, <b>Fuli Feng</b>, Meng Wang & Tat-Seng Chua
+    <br>SIGIR 2019 (Full, Accept rate: 20%) &nbsp;&nbsp; <a href="http://staff.ustc.edu.cn/~hexn/slides/sigir19-fashion-slides.pdf">Slides</a> &nbsp;&nbsp;
+  </td>
+  </tr>
+ </tbody>
+</table>
+
+<table>
+  <tbody>
+  <tr>
+    <td class="left"><a href="https://dl.acm.org/citation.cfm?doid=3331184.3331267" target="_blank"><img src="./images/pdf.png" width="25" height="25"><br>pdf</a></td>
+    <td><span class="title">Neural Graph Collaborative Filtering</span> 
+      <br>Xiang Wang, Xiangnan He, Meng Wang, <b>Fuli Feng</b> & Tat-Seng Chua
+    <br>SIGIR 2019 (Full, Accept rate: 20%)
+    <br>&nbsp;&nbsp;&bull; <a href="https://arxiv.org/abs/1905.08108" target="_blank">arXiv</a> &nbsp;&nbsp;
+	    	    &bull; <a href="https://github.com/xiangwang1223/neural_graph_collaborative_filtering" target="_blank">Codes</a> &nbsp;&nbsp;
+  </td>
+  </tr>
+ </tbody>
+</table>
+
+<table>
+  <tbody>
+  <tr>
+    <td class="left"><a href="https://dl.acm.org/citation.cfm?id=3331184.3331229" target="_blank"><img src="./images/pdf.png" width="25" height="25"><br>pdf</a></td>
+    <td><span class="title">Supervised Hierarchical Cross-Modal Hashing</span>
+        <br>Changchang Sun, Xuemeng Song, <b>Fuli Feng</b>, Wayne Xin Zhao, Hao Zhang & Liqiang Nie
+    <br>SIGIR 2019 (Full, Accept rate: 20%) &nbsp;&nbsp;
+  </td>
+  </tr>
+ </tbody>
+</table>
+
+<table>
+  <tbody>
+  <tr>
+    <td class="left"><a href="http://staff.ustc.edu.cn/~hexn/papers/www19-cross-recom-privacy.pdf" target="_blank"><img src="./images/pdf.png" width="25" height="25"><br>pdf</a></td>
+    <td><span class="title">Cross-domain Recommendation Without Sharing User-relevant Data</span>
+        <br>Chen Gao, Xiangning Chen, <b>Fuli Feng</b>, Kai Zhao, Xiangnan He, Yong Li & Depeng Jin
+    <br>WWW 2019 (Full, Accept rate: 18%) &nbsp;&nbsp;
+  </td>
+  </tr>
+ </tbody>
+</table>
+
+<table>
+  <tbody>
+  <tr>
+    <td class="left"><a href="./papers/2019aaai_cunxiao.pdf" target="_blank"><img src="./images/pdf.png" width="25" height="25"><br>pdf</a></td>
+    <td><span class="title">Explicit Interaction Model towards Text Classification</span>
+        <br>Cunxiao Du, Zhaozheng Chin, <b>Fuli Feng</b>, Lei Zhu, Tian Gan & Liqiang Nie
+    <br>AAAI 2019 (Full, Accept rate: 16.2%) &nbsp;&nbsp;
+  </td>
+  </tr>
+ </tbody>
+</table>
+
+<table>
+  <tbody>
+  <tr>
+    <td class="left"><a href="./papers/icde19-multi-behavior-rec.pdf" target="_blank"><img src="./images/pdf.png" width="25" height="25"><br>pdf</a></td>
+    <td><span class="title">Neural Multi-Task Recommendation from Multi-Behavior Data</span>
+        <br>Chen Gao, Xiangnan He, Dahua Gan, Xiangning Chen, <b>Fuli Feng</b>, Yong Li, Tat-Seng Chua & Depeng Jin
+    <br>ICDE 2019 (Short) &nbsp;&nbsp;
+  </td>
+  </tr>
+ </tbody>
+</table>
+
+<table>
+  <tbody>
+  <tr>
+    <td class="left"><a href="https://arxiv.org/pdf/1809.09441.pdf" target="_blank"><img src="./images/pdf.png" width="25" height="25"><br>pdf</a></td>
+    <td><span class="title">Temporal Relational Ranking for Stock Prediction</span>
+        <br><b>Fuli Feng</b>, Xiangnan He, Xiang Wang, Cheng Luo, Yiqun Liu & Tat-Seng Chua
+    <br>ACM Transactions on Information Systems (TOIS 2019) &nbsp;&nbsp; <a href="https://github.com/fulifeng/Temporal_Relational_Stock_Ranking" target="_blank">Codes</a> &nbsp;&nbsp;
+  </td>
+  </tr>
+ </tbody>
+</table>
+
+<table>
+  <tbody>
+  <tr>
+    <td class="left"><a href="http://staff.ustc.edu.cn/~hexn/papers/tkde19-bpr-sampler.pdf" target="_blank"><img src="./images/pdf.png" width="25" height="25"><br>pdf</a></td>
+    <td><span class="title">Sampler Design for Bayesian Personalized Ranking by Leveraging View Data</span>
+        <br>Jingtao Ding, Guanghui Yu, Xiangnan He, <b>Fuli Feng</b>, Yong Li & Depeng Jin
+    <br>IEEE Transactions on Knowledge and Data Engineering (TKDE 2019) &nbsp;
+  </td>
+  </tr>
+ </tbody>
+</table>
+
+<b> Look for the full publication list? Please visit <a href="https://scholar.google.com.sg/citations?user=QePM4u8AAAAJ&hl=en" target="_blank">Google Scholar</a>.</b></br></br>
+
+
+<!-- <h2 style="CLEAR: both;">Tutorials</h2>
+
+<table>
+  <tbody>
+  <tr>
+    <td class="left"><a href="./papers/sigir18-tutorial-deep-matching.pdf" target="_blank"><img src="./files/pdf.gif"><br>pdf</a></td>
+    <td><span class="title">Deep Learning for Matching in Search and Recommendation</span> 
+      <br>Jun Xu, <b>Xiangnan He</b>, & Hang Li
+    <br> SIGIR 2018 &nbsp;&nbsp; <a href="./sigir18-deep.pdf" target="_blank">Slides</a> (2018/7/8 @ Ann Arbor Michigan, US) &nbsp;&nbsp; 
+  </td>
+  </tr>
+ </tbody>
+</table> -->
+
+<h2 style="CLEAR: both;">Invited Talks</h2>
+
+<table><tbody><tr><td>
+  <span class="title">Temporal Relational Ranking for Stock Prediction</span>
+&nbsp;&nbsp;<br> - MegaAI Company, Beijing, 13 February, 2019 (invited by Dr. Cheng Luo)
+  <br> - Shandong University, 11 Augest, 2018 (invited by Prof. Liqiang Nie)
+</td></tr></tbody></table>
+
+<table><tbody><tr><td>
+  <span class="title">Learning on Partial-Order Hypergraphs</span> &nbsp;&nbsp;
+  <br> - WWW 2018, Lyon, France, 26 April, 2018
+</td></tr></tbody></table>
+
+<table><tbody><tr><td>
+  <span class="title">Computational Social Indicators: A Case Study of Chinese University Ranking</span> &nbsp;&nbsp;
+  <br> - SIGIR 2017, Tokyo, Japan, 5 August, 2017
+</td></tr></tbody></table>
+
+
+
+<h2 style="CLEAR: both;">Professional Services</h2>
+<table><tbody><tr><td>
+<!-- 	Local Chair of <span class="title">CCIS 2019</span> (IEEE International Conference on Cloud Computing and Intelligence Systems) <br> -->
+    Program Committee Member of <span class="title">AAAI (2020) </span> <br>
+    Program Committee Member of <span class="title">CIKM (2019) </span> <br>
+    Program Committee Member of <span class="title">SIGIR (2019) </span> <br>
+    Program Committee Member of <span class="title">ACMMM (2019) </span> <br>
+    Program Committee Member of <span class="title">SIGIR (2018) </span> <br>
+    Invited Reviewer for <span class="title">IEEE Transactions on Neural Networks and Learning Systems (TNNLS) </span> <br>
+    Invited Reviewer for <span class="title">IEEE Transactions on Knowledge and Data Engineering (TKDE) </span> <br>
+    Invited Reviewer for <span class="title">Information Sciences </span> <br>
+    Invited Reviewer for <span class="title">Multimedia Tools and Applications</span> <br>
+    Invited Reviewer for <span class="title">World Wide Web Journal (WWWJ) </span> <br>
+    Invited Reviewer for <span class="title">Multimedia Systems Journal (MMSJ) </span> <br>
+    External Reviewer of <span class="title">WWW and WSDM in 2019. </span> <br>
+    External Reviewer of <span class="title">AIRS, EMNLP, CIKM, ACMMM, ACL, IJCAI, KDD, AAAI, and WSDM in 2018. </span> <br>
+    External Reviewer of <span class="title">AIRS, EMNLP, CIKM, ACMMM, ACL, IJCAI, KDD, AAAI, and WSDM in 2017. </span> <br>
+</td></tr></tbody></table>
+
+
+
+<h2 style="CLEAR: both;">Selected Awards</h2>
+
+<table><tbody><tr><td>
+  <span class="title">Dean's Graduate Research Excellence Award, &nbsp;&nbsp; 2018</span> &nbsp;&nbsp;
+  <br> - School of Computing, National University of Singapore
+</td></tr></tbody></table>
+
+<table><tbody><tr><td>
+  <span class="title">Best Poster Award, &nbsp;&nbsp; 2018</span> &nbsp;&nbsp;
+  <br> - The Web Conference (WWW)
+</td></tr></tbody></table>
+
+<table><tbody><tr><td>
+  <span class="title">Research Achievement Award, &nbsp;&nbsp; 2017</span> &nbsp;&nbsp;
+  <br> - School of Computing, National University of Singapore
+</td></tr></tbody></table>
+
+<table><tbody><tr><td>
+  <span class="title"> Outstanding Undergraduate Award, &nbsp;&nbsp;2014</span> &nbsp;&nbsp;
+  <br> - China Computer Federation (CCF)
+</td></tr></tbody></table>
+
+<table><tbody><tr><td>
+  <span class="title">1st Prize Award, &nbsp;&nbsp;2014</span> &nbsp;&nbsp;
+  <br> - ASC World Student Supercomputer Challenge
+</td></tr></tbody></table>
+
+<table><tbody><tr><td>
+  <span class="title">Application Innovation Award, &nbsp;&nbsp;2014</span> &nbsp;&nbsp;
+  <br> - ASC World Student Supercomputer Challenge
+</td></tr></tbody></table>
+
+<!-- <h2 style="CLEAR: both;">Datasets</h2>
+<table>
+  <tbody>
+  <tr>
+    <td><span class="title"><a href="http://wing.comp.nus.edu.sg/downloads/multiview_clustering/" target="_blank">Multi-View Clustering with User Comments</a></span> <br>
+	  The first public user comments dataset for multi-view clustering. The groundtruth labels are provided as the categories of items. The textual comments have been pre-processed, include stemming, removing stopwords .etc.<br>
+	  <a href="http://dl.acm.org/citation.cfm?id=2567975">WWW 2014 paper</a>.</td></tr></tbody></table> -->
+
+<!--
+<h2 style="CLEAR: both;">Teaching Assistants</h2>
+<table>
+  <tbody>
+  <tr>
+    <td><span class="title"><a href="http://www1.i2r.a-star.edu.sg/~jspan/courses/nus/CS5228.htm" target="_blank">CS5228 Knowledge Discovery and Data Mining</a></span> <br>
+	2014/2015 Semester 1 
+     </td></tr></tbody></table>
+<table>
+  <tbody>
+  <tr>
+    <td><span class="title"><a href="http://www.comp.nus.edu.sg/~kanmy/courses/3245_2014/" target="_blank">CS3245 Information Retrieval</a></span> <br>
+	2013/2014 Semester 2 
+     </td></tr></tbody></table>
+<table>
+  <tbody>
+  <tr>
+    <td><span class="title"><a href="http://www.comp.nus.edu.sg/~xiangnan/cs1020_tutorial2.htm" target="_blank">CS3245 CS1020 Data Structure and Algorithms</a></span> <br>
+	2013/2014 Semester 1
+     </td></tr></tbody></table>
+-->
+		
+<h2 style="CLEAR: both;">Useful Links</h2>
+<table><tbody>
+  <tr><td> <span class="title"><a href="./SoC Conference Ranking.htm" target="_blank">NUS CS Conference Rankings</a></span> </td></tr>
+  <tr><td> <span class="title"><a href="./SoC Journal Ranking.htm" target="_blank">NUS CS Journal Ranking</a></span> </td></tr>  
+  <tr><td> <span class="title"><a href="http://www.comp.nus.edu.sg/undergraduates/useful_course_schedule.html" target="_blank">NUS CS Courses</a></span> </td></tr>    
+  <tr><td> <span class="title"><a href="https://docs.google.com/document/d/1IXF3h0RU5zz4ukmTrVKVotPQypChscNGf5k6E25HGvA" target="_blank">Machine Learning Reading List</a></span> </td></tr>    
+  <tr><td> <span class="title"><a href="https://github.com/robertsdionne/neural-network-papers" target="_blank">Deep Learning Reading List</a></span> </td></tr>    
+</tbody></table>
+
+</br>
+<!-- <div id="clustrmaps-widget"></div> <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=BMZwy5vgkXtV6P19neLzpJ23Mpj_2dIdhe9EE5_5V0I"></script> -->
+
+<p>Last update: 25 August, 2019. Webpage template borrows from <a href="http://staff.ustc.edu.cn/~hexn/">Prof. Xiangnan He</a>.</p>
+
+</div>
+</div>
+
+
+</body></html>
